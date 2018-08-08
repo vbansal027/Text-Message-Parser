@@ -1,0 +1,13 @@
+# Byte compiled files
+__pycache__/
+models/
+*.py[cod]
+.vscode/
+
+# Instance and venv folder
+instance/
+venv/
+
+# Recovey folder
+recover/
+recover*
