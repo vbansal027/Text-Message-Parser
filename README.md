@@ -1,4 +1,4 @@
-# Text Message Parser
+# Message Parser
 
 This is a nlp based, Flask application, written in Python, using the rasa-nlu natural language processing engine. The app requires a structured data input to be trained from and then prepares a trained nlp model from it. Subsequently, using the trained model, it will extract and return the *intent* and *entities* (refer to rasa-nlu) from the sentence fed into it.
 
