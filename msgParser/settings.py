@@ -1,0 +1,6 @@
+DEBUG = 'False'
+SECRET_KEY = 'Super_secret_key'
+FLASK_ENV = 'production'
+UPLOAD_FOLDER = 'msgParser/train/server_uploads'
+CONFIG_PATH = 'chatbot/configs/config_spacy.yml'
+MODEL_DIR = 'msgParser/classify/models'
